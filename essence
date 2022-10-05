@@ -1,7 +1,11 @@
-[
-}
-"version":"1.2",
-"changelog":"A New Version is Available to Download";
-"link":"https://vepaar.com/essence-stores/categories/kitchen-accessories",
+
 {
-]
+  "Visibility": "VISIBLE",
+  "Title": "Test",
+  "Description": "Test Message",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "www.example.com",
+  "Version": "1.1"
+}
